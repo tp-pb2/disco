@@ -1,4 +1,4 @@
-package practicaFinal;
+package ar.edu.unlam.pb2.disco;
 
 public class Disco {
 	
